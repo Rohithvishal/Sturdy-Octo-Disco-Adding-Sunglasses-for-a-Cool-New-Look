@@ -1,7 +1,7 @@
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
 ## Date - 1/2/26
-## Reg no - 212224230058
+## Reg no - 212224230232
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
